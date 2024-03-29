@@ -1,6 +1,13 @@
-Juan Solis
-Pasos para hacer una pizza simple:
+Nils Muralles
+1. Prepara la masa: Mezcla harina, levadura, sal y agua. Deja reposar.
+2. Prepara los ingredientes: Corta tomate, queso, jamón, etc.
+3. Estira la masa: Forma una base fina.
+4. Monta la pizza: Agrega salsa, ingredientes y queso.
+5. Cocina: Hornea a alta temperatura por 12-15 minutos.
+6. Sirve caliente: Corta y disfruta.
 
+
+Juan Solis
 Masa:
 1. Mezcla en un bol la harina, la sal y la levadura. Haz una montaña con forma de volcán.
 2. Añade el agua templada y el aceite de oliva en el centro. Remueve con un tenedor hasta que se integren los ingredientes.
@@ -20,6 +27,7 @@ Armado y horneado:
 12. Agrega el queso mozzarella rallado.
 13. Añade los toppings de tu preferencia (pepperoni, jamón, verduras, etc.).
 14. Hornea la pizza durante 15-20 minutos hasta que la masa esté dorada y el queso derretido.
+
 
 Victor Pérez
 1. Precalienta tu horno a la temperatura adecuada para hornear pizza, generalmente entre 220-250°C (450-500°F).
